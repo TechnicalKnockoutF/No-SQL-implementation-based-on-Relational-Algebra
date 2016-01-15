@@ -1,0 +1,5 @@
+Add the location of json-simple-1.1.1.jar file to the environment variable CLASSPATH
+
+Run the JSONRead.java file.
+If you want to test with other JSON files add the path in the main function.
+All other fixed values are mentioned as class variables in JSONRead.java file and can be modified from there.
